@@ -1,4 +1,5 @@
 # CS-255-Module-8-Journal
+CS 255 Module 8 Journal
 
 DriverPass is a company that is focused on providing driver education to students learning to drive. DriverPass contacted our consulting firm on the idea of building out a web-based platform for their users. This platform will allow users to buy driving packages that include in-person driving appointments, in-person lessons on rules of the road, and online materials to study and take practice tests.
 
